@@ -1,4 +1,4 @@
-End-to-End Sales Data Warehouse & Analytics Project
+# End-to-End Sales Data Warehouse & Analytics Project
 
 This repository showcases an end-to-end data warehousing and analytics solution—covering everything from data ingestion and transformation to modeling and insights. It demonstrates modern best practices in data engineering, ETL design, and analytics.
 
