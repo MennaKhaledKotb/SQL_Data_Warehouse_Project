@@ -1,0 +1,16 @@
+USE master;
+
+-- Create the database
+CREATE Database SalesDataWarehouse;
+
+Use SalesDataWarehouse;
+
+-- Create Schemas
+CREATE SCHEMA bronze;
+GO
+CREATE SCHEMA silver;
+GO
+CREATE SCHEMA gold;
+GO
+
+
