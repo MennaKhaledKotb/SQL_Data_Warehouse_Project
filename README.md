@@ -14,8 +14,7 @@ The project is built on the Medallion Architecture framework with three layers:
 The project covers:
 1- Data Architecture
 2- ETL Pipelines
-3- Data Modeling .
-4- Analytics & Reporting 
+3- Data Modeling 
 
 🚀 Project Deliverables
 
@@ -28,8 +27,4 @@ Key Points:
 4- Focus on current datasets only (no historization).
 5- Document the data model for both technical and business users.
 
-- Analytics & Reporting (BI)
-To Deliver insights through SQL queries and reports on:
-1- Customer behavior
-2- Product performance
-3- Sales trends
+
